@@ -1,0 +1,7 @@
+D:\Facultate\PIU\Proiect_Buget\Proiect_Buget\bin\Debug\Proiect_Buget.exe.config
+D:\Facultate\PIU\Proiect_Buget\Proiect_Buget\bin\Debug\Proiect_Buget.exe
+D:\Facultate\PIU\Proiect_Buget\Proiect_Buget\bin\Debug\Proiect_Buget.pdb
+D:\Facultate\PIU\Proiect_Buget\Proiect_Buget\obj\Debug\Proiect_Buget.csprojAssemblyReference.cache
+D:\Facultate\PIU\Proiect_Buget\Proiect_Buget\obj\Debug\Proiect_Buget.csproj.CoreCompileInputs.cache
+D:\Facultate\PIU\Proiect_Buget\Proiect_Buget\obj\Debug\Proiect_Buget.exe
+D:\Facultate\PIU\Proiect_Buget\Proiect_Buget\obj\Debug\Proiect_Buget.pdb
